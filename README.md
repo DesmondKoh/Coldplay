@@ -51,13 +51,12 @@ Website display as expected.
 Website display as expected.
 
 # **Mobile (767px)**
-###Safari
+### Safari
 Website display as expected.
 
 
 # **Credits**
 ### Media Used
-IMAGES
 https://imgur.com/a/J9A5Y5Z
 https://en.wikipedia.org/wiki/File:Chris_Martin_2017_in_Hamburg.jpg
 https://www.pinterest.com/pin/129619295509223479/
