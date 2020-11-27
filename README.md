@@ -87,3 +87,8 @@ https://www.youtube.com/watch?v=1Uw6ZkbsAH8
 https://www.youtube.com/watch?v=k4V3Mo61fJM
 https://www.youtube.com/watch?v=Qtb11P1FWnc
 https://www.youtube.com/watch?v=IakDItZ7f7Q
+
+# **Acknowledgement**
+Some design of the website was inspired by
+https://www.youtube.com/watch?v=enSvkyuojnA&ab_channel=StrangerCode
+https://www.youtube.com/watch?v=q6vXTsMIdtM&t=164s&ab_channel=OnlineTutorials
