@@ -17,9 +17,6 @@
 }
 
 /*SOCIAL MEDIA NAVIGATION BAR*/
-.socialmedia{
-    border: 1px solid solid black;
-}
 
 ul li{
     float: left;
@@ -87,6 +84,10 @@ b{
     margin: 50px 50px 0px 0px;
 }
 
+#tour-image{
+    width: 350px;
+    height: 210px;
+}
 .cover{
     background-image: url('image/background.jpg');
     border: 1px solid rgb(0, 0, 0);
@@ -159,6 +160,8 @@ span{
 
 .video{
     margin-top: -50px;
+    width:620px; 
+    height:359px;
 }
 
 /*MEMBER SECTION*/
@@ -373,7 +376,7 @@ span{
 
 /*FORM SECTION*/
 
-#name, #email, #message{
+#fname, #lname, #email, #message{
     margin: 10px;
     padding-left: 30px;
     color: lightgray;
@@ -382,7 +385,7 @@ span{
     color:black;
 }
 
-#name{
+#fname, #lname{
     width: 200px;
     height: 40px;
 }
