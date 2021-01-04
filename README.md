@@ -5,19 +5,19 @@
 The purpose of this website is to provide information on upcoming tours, members, top musics as well as a contacting Coldplay.
 
 # **Design Process**
-This website is design for visitors who wants to know more about Coldplay's upcoming tour. 
+This website is design for visitors who wants to know more about Coldplay's upcoming tour. It has 4 section to the webpage.
 
 ### Website Description
-The first thing i want the visitors to see is telling them what the website is about, 
+Visitors will be able to get an idea of the website.
 
 ### Upcoming Tour
-then show them the upcoming tours straight away as that is what the visitors are here for.
+Coldplay's upcoming tour will be shown straight away as that is what the visitors are here for.
 
 ### Members & Top10 Music
-The next two section, Members and Top10 Music are extra information on the Band. For visitors who are new to Coldplay.
+Members and Top10 Music are extra information for the visitors to read on the Band.
 
 ### Contact
-At the bottom of the webpage, i want visitors to be able to contact the band, so i created a contact page with required inputs.
+Visitors will be able to contact the band.
 
 
 # **Features**
@@ -49,20 +49,20 @@ Website display as expected.
 ### Microsoft Edge
 Website display as expected.
 
-# **Mobile (767px)**
+# **IPad (767px)**
 ### Safari
 Website display as expected.
 
 
 # **Credits**
 ### Media Used
-Heading background: https://imgur.com/a/J9A5Y5Z
-Chris Martin Image: https://en.wikipedia.org/wiki/File:Chris_Martin_2017_in_Hamburg.jpg
-Will Champion Image: https://www.pinterest.com/pin/129619295509223479/
-Guy Berryman Image: https://www.pinterest.com/pin/425308758544683657/
-Jonny Buckland Image: https://cz.pinterest.com/pin/403635185350223741/
-Upcoming Event Image: https://www.cnbc.com/2018/12/07/how-coldplay-a-band-that-says-rock-is-done-grossed-500-million.html
-Latest Coldplay Event: https://www.youtube.com/embed/TgYCkud3XjY
+* Heading background: https://imgur.com/a/J9A5Y5Z
+* Chris Martin Image: https://en.wikipedia.org/wiki/File:Chris_Martin_2017_in_Hamburg.jpg
+* Will Champion Image: https://www.pinterest.com/pin/129619295509223479/
+* Guy Berryman Image: https://www.pinterest.com/pin/425308758544683657/
+* Jonny Buckland Image: https://cz.pinterest.com/pin/403635185350223741/
+* Upcoming Tour Image: https://www.cnbc.com/2018/12/07/how-coldplay-a-band-that-says-rock-is-done-grossed-500-million.html
+* Latest Coldplay Event: https://www.youtube.com/embed/TgYCkud3XjY
 
 
 ### External Content Links Link to
