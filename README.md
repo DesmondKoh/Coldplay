@@ -1,3 +1,5 @@
+### Desmond Koh Chye Ang
+
 # **Coldplay**
 ### Intent and Purpose
 The purpose of this website is to provide information on upcoming tours, members, top musics as well as a contacting Coldplay.
@@ -16,9 +18,6 @@ The next two section, Members and Top10 Music are extra information on the Band.
 
 ### Contact
 At the bottom of the webpage, i want visitors to be able to contact the band, so i created a contact page with required inputs.
-
-	- As an old fan, i would like to know more about Coldplay's upcoming tour
-	- I'm a new coldplay fan, i would like to know more about the band
 
 
 # **Features**
@@ -57,38 +56,32 @@ Website display as expected.
 
 # **Credits**
 ### Media Used
-https://imgur.com/a/J9A5Y5Z
-https://en.wikipedia.org/wiki/File:Chris_Martin_2017_in_Hamburg.jpg
-https://www.pinterest.com/pin/129619295509223479/
-https://www.pinterest.com/pin/425308758544683657/
-https://cz.pinterest.com/pin/403635185350223741/
-https://www.cnbc.com/2018/12/07/how-coldplay-a-band-that-says-rock-is-done-grossed-500-million.html
-https://www.youtube.com/embed/TgYCkud3XjY
+Heading background: https://imgur.com/a/J9A5Y5Z
+Chris Martin Image: https://en.wikipedia.org/wiki/File:Chris_Martin_2017_in_Hamburg.jpg
+Will Champion Image: https://www.pinterest.com/pin/129619295509223479/
+Guy Berryman Image: https://www.pinterest.com/pin/425308758544683657/
+Jonny Buckland Image: https://cz.pinterest.com/pin/403635185350223741/
+Upcoming Event Image: https://www.cnbc.com/2018/12/07/how-coldplay-a-band-that-says-rock-is-done-grossed-500-million.html
+Latest Coldplay Event: https://www.youtube.com/embed/TgYCkud3XjY
 
 
 ### External Content Links Link to
-https://twitter.com/coldplay
-https://www.instagram.com/coldplay/
-https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw
-https://www.facebook.com/coldplay
-https://coldplay.tumblr.com/
-https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uIwOA
-https://en.wikipedia.org/wiki/Chris_Martin
-https://en.wikipedia.org/wiki/Will_Champion
-https://en.wikipedia.org/wiki/Guy_Berryman
-https://en.wikipedia.org/wiki/Jonny_Buckland
-https://www.youtube.com/watch?v=RB-RcX5DS5A
-https://www.youtube.com/watch?v=dvgZkm1xWPE
-https://www.youtube.com/watch?v=yKNxeF4KMsY
-https://www.youtube.com/watch?v=kcASPx3-HuI
-https://www.youtube.com/watch?v=d020hcWA_Wg
-https://www.youtube.com/watch?v=QtXby3twMmI
-https://www.youtube.com/watch?v=1Uw6ZkbsAH8
-https://www.youtube.com/watch?v=k4V3Mo61fJM
-https://www.youtube.com/watch?v=Qtb11P1FWnc
-https://www.youtube.com/watch?v=IakDItZ7f7Q
+ColdPlay Social Medias
+* Twitter: https://twitter.com/coldplay
+* Instagram: https://www.instagram.com/coldplay/
+* Youtube: https://www.youtube.com/channel/UCDPM_n1atn2ijUwHd0NNRQw
+* Facebook: https://www.facebook.com/coldplay
+* Tumblr: https://coldplay.tumblr.com/
+* Spotify: https://open.spotify.com/playlist/37i9dQZF1DZ06evO2uIwOA
+
+Members Wikipedia Informations
+* Chris Martin: https://en.wikipedia.org/wiki/Chris_Martin
+* Will Champion: https://en.wikipedia.org/wiki/Will_Champion
+* Guy Berryman: https://en.wikipedia.org/wiki/Guy_Berryman
+* Jonny Buckland: https://en.wikipedia.org/wiki/Jonny_Buckland
+
 
 # **Acknowledgement**
 Some design of the website was inspired by
-https://www.youtube.com/watch?v=enSvkyuojnA&ab_channel=StrangerCode
-https://www.youtube.com/watch?v=q6vXTsMIdtM&t=164s&ab_channel=OnlineTutorials
+* https://www.youtube.com/watch?v=enSvkyuojnA&ab_channel=StrangerCode
+* https://www.youtube.com/watch?v=q6vXTsMIdtM&t=164s&ab_channel=OnlineTutorials
